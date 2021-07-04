@@ -10,7 +10,7 @@ class Translation(object):
 I am worker from moviegram123 🔥🔥😝
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@movie_gram123
 </i>"""    
     
     HELP_TEXT = """
